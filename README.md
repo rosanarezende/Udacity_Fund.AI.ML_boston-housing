@@ -1,4 +1,4 @@
-# Nanodegree Fundamentos de Inteligência Artificial & Machine Learning
+# Nanodegree Fundamentos em Artificial Intelligence & Machine Learning
 # Modelo de avaliação e validação
 ## Projeto: Prevendo o preço de imóveis de Boston
 
